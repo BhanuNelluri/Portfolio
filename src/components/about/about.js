@@ -37,16 +37,16 @@ export default function About() {
                             <span>Languages : </span>JavaScript, Java, C++, C
                         </div>
                         <div>
-                            <span>Frontend : </span> React, Redux, HTML, CSS, Bootstrap,Material-UI,DOM
+                            <span>Frontend : </span> React, Redux, HTML, CSS, Bootstrap, Material-UI, DOM
                         </div>
                         <div>
-                            <span>Backend : </span> Node.js, Express,MongoDB,RESTful API,OAuth,Passport.js
+                            <span>Backend : </span> Node.js, Express, MongoDB, RESTful API, OAuth, Passport.js
                         </div>
                         <div>
-                            <span>DevOps : </span>Heroku,Git,GitHub,npm
+                            <span>DevOps : </span>Heroku, Git, GitHub, npm
                         </div>
                         <div>
-                            <span>Tools : </span> VScode,Postman,Figma
+                            <span>Tools : </span> VScode, Postman, Figma
                         </div>
                     </div>
                     <div className="image">
