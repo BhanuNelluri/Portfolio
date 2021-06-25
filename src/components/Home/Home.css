@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.HomeContainer{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.Contactlinks{
+ position: fixed;
+ display: flex;
+ flex-direction: column;
+ top:40%;
+ background-color: #01BF71;
+ z-index: 999;
+}
+@media screen and (max-width:1400px) {
+    .Contactlinks{
+        z-index: -10;
+    }
+}
+
+.links{
+    font-size: 2rem;
+    padding:10px 10px;
+    color:#000;
+}

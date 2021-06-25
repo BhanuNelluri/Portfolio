@@ -1,0 +1,30 @@
+.footer{
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    background-color: #434D56;
+}
+.footerContent{
+    display: flex;
+    color:#fff;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.footerContent div{
+   text-align: center;
+    margin:10px 0 ;
+}
+
+.footerLinks{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.item{
+    margin: 50px 20px ;
+    font-size: 2rem;
+    color: #01BF71;
+}
