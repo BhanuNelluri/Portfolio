@@ -54,6 +54,11 @@ export default function Sidebar({ setIsOpen }) {
                 <div className="SidebarItem"
                     ref={el => resume = el}>
                     <LinkS onClick={() => setIsOpen(false)} className="SidebarLinks" to='resume'
+                        smooth={true}
+                        duration={500}
+                        spy={true}
+                        exact="true"
+                        offset={-80}
                     >Resume</LinkS>
                 </div>
             </div>
