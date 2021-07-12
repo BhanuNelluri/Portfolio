@@ -82,6 +82,15 @@ export default function Navbar({ isOpen, setIsOpen }) {
                         >Projects</LinkS>
                     </div>
                     <div className="NavItem">
+                        <LinkS className="NavLinks" to='resume'
+                            smooth={true}
+                            duration={500}
+                            spy={true}
+                            exact="true"
+                            offset={-80}
+                        >Resume</LinkS>
+                    </div>
+                    <div className="NavItem">
                         <LinkS className="NavLinks" to='Contact'
                             smooth={true}
                             duration={500}
@@ -90,10 +99,7 @@ export default function Navbar({ isOpen, setIsOpen }) {
                             offset={-80}
                         >Contact</LinkS>
                     </div>
-                    <div className="NavItem">
-                        <LinkS className="NavLinks" to='resume'
-                        >Resume</LinkS>
-                    </div>
+
                 </div>
             </div>
         </div >

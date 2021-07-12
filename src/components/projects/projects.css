@@ -3,7 +3,7 @@
     margin: 0 0;
     display: flex;
     flex-direction: column;
-    background-color:#ffffff ;
+    background-color:#DDDDDD ;
     }
     
     .projectNav{
@@ -114,4 +114,11 @@
         img{
             width:70%;
         }
+    }
+
+    .stackH{
+        margin:20px 0;
+    }
+    .techlist{
+        margin:10px 40px;
     }

@@ -25,7 +25,15 @@ export default function Projects() {
                     <div className="projectInfo">
                         <div className="InfoHeader">IITG Stack overflow</div>
                         <div className="matter">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut nostrum sit nemo, obcaecati natus voluptates dolores ex molestiae libero modi! Ducimus laudantium nemo modi explicabo assumenda natus rem dolorum quam.lorem
+                            <div className="matterContent">People can post general,tech related or any sort of queries on the home feed provided with a search bar to search across all the previous questions based on keywords and other users will be able to answer those queries</div>
+                            <h4 className="stackH">Tech Stack</h4>
+                            <ul className="techlist">
+                                <li>React</li>
+                                <li>Redux</li>
+                                <li>Node.js</li>
+                                <li>Express</li>
+                                <li>MongoDB</li>
+                            </ul>
                         </div>
                     </div>
                     <div className="projectImage">
@@ -40,7 +48,16 @@ export default function Projects() {
                     <div className="projectInfo">
                         <div className="InfoHeader">MemoriesProject</div>
                         <div className="matter">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut nostrum sit nemo, obcaecati natus voluptates dolores ex molestiae libero modi! Ducimus laudantium nemo modi explicabo assumenda natus rem dolorum quam.lorem
+                            <div className="matterContent">A Social Media Platform where People can share there memories in the form of posts and it is provided with a search bar to search across all the previous posts based on keywords and tags other users will be able to like your posts</div>
+                            <h4 className="stackH">Tech Stack</h4>
+                            <ul className="techlist">
+                                <li>React</li>
+                                <li>Redux</li>
+                                <li>Node.js</li>
+                                <li>Express</li>
+                                <li>MongoDB</li>
+                                <li>Material-UI</li>
+                            </ul>
                         </div>
                     </div>
                     <div className="projectImage">
@@ -55,7 +72,16 @@ export default function Projects() {
                     <div className="projectInfo">
                         <div className="InfoHeader">YelpCamp</div>
                         <div className="matter">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut nostrum sit nemo, obcaecati natus voluptates dolores ex molestiae libero modi! Ducimus laudantium nemo modi explicabo assumenda natus rem dolorum quam.lorem
+                            <div className="matterContent">It is a Platform for people who love travelling and camping in places. Here you can find the camp details posted by different users and you can see the camp location in the map and also you can see different users reviews on that camps.</div>
+                            <h4 className="stackH">Tech Stack</h4>
+                            <ul className="techlist">
+                                <li>ejs</li>
+                                <li>Node.js</li>
+                                <li>Express</li>
+                                <li>MongoDB</li>
+                                <li>Passport</li>
+                                <li>Mapbox</li>
+                            </ul>
                         </div>
                     </div>
                     <div className="projectImage">
