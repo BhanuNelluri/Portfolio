@@ -26,7 +26,7 @@ export default function About() {
                     </div>
                     <div className="aboutme">
                         <div>
-                            Hi! I’m Bhanu Nelluri, a full-stack web developer and Undergraduate Student at <span>Indian Institute of Technology, Guwahati</span>. After doing Competitive programming for almost 2 years with some advanced Data Structures and algorithms, I’ve decided to take the leap to pursue a career in web applications. I can say that starting my carrer in development side has been the best decision I have ever made in my life. I love to learn new technologies and flex my creativity to create amazing things.
+                            Hi! I’m Bhanu Nelluri, a full-stack web developer and Undergraduate Student at <span>Indian Institute of Technology, Guwahati</span>. After doing Competitive programming for almost 1 year with some advanced Data Structures and algorithms, I’ve decided to take the leap to pursue a career in web applications. I can say that starting my carrer in development side has been the best decision I have ever made in my life. I love to learn new technologies and flex my creativity to create amazing things.
                         </div>
                     </div>
                 </div>

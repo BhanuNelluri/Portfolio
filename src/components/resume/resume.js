@@ -4,7 +4,7 @@ import { ParallaxBanner } from 'react-scroll-parallax';
 import { BsDownload } from 'react-icons/bs'
 import { Button } from '../Elements/ButtonElement';
 import { VscOpenPreview } from 'react-icons/vsc';
-import bhanu from './bhanu.pdf';
+import bhanu from './bhanu1.pdf';
 
 export default function Resume(props) {
     return (
@@ -19,6 +19,7 @@ export default function Resume(props) {
                     <a href={`${bhanu}`}
                         target="_blank"
                         className="resumebtn"
+                        rel="noopener"
                     >
                         VIEW RESUME &nbsp; <VscOpenPreview />
                     </a>
